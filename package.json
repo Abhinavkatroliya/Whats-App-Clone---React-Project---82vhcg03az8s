@@ -12,8 +12,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^14.0.0",
+    "@testing-library/user-event": "^14.4.3",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-icons": "^4.7.1",
+    "react-router-dom": "^6.8.1",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^3.1.1"
   },
   "jest": {
     "moduleNameMapper": {
