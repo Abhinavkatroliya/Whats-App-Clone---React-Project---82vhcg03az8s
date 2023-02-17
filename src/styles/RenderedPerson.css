@@ -1,0 +1,22 @@
+.person-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 35rem;
+    margin: 2rem 0;
+    background-color: #2a7b2f;
+    padding: 1rem 2rem;
+    border-radius: 50px;
+    cursor: pointer;
+  }
+  
+  .person-wrapper img {
+    height: 6rem;
+    width: 6rem;
+    border-radius: 100%;
+  }
+  
+  .person-wrapper p {
+    font-size: 2.4rem;
+    color: #fff;
+  }

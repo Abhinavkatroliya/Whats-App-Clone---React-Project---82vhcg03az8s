@@ -1,0 +1,9 @@
+.input_box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2rem;
+    background-color: #fff;
+    padding: 0.4rem 1rem;
+    border-radius: 20px;
+  }
